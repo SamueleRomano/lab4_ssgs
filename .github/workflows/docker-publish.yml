@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: SamueleRomano/lab4_ssgs:latest
+          tags: samueleromano/lab4_ssgs:latest
