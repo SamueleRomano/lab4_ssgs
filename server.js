@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <section>
-          <h2>Docker Course for UniGHE</h2>
+          <h2>Docker Course for UniGE 2.0</h2>
           <h3>${userGoal}</h3>
         </section>
         <form action="/store-goal" method="POST">
